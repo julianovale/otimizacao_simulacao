@@ -7,3 +7,4 @@ Algumas experiências com modelagem e simulação utilizando o Python:<br />
 [0004. Álgebra de Kronecker - Computação Simbólica](/0004_kronecker_algebra_computacao_simbolica.ipynb)<br />
 [0005. Maximização Indústria Textil](/0005_maximizacao_ind_textil.ipynb)<br />
 [0006. Exemplo Kronecker Trem](/0006_ex_trem_kronecker_algebra_computacao_simbolica.ipynb)<br />
+[0007. Rotina de criação de grafos](/0007_rotina_criacao_grafos.ipynb)<br />
